@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948749839304",
+    "project_id": "arfurniture-15455",
+    "storage_bucket": "arfurniture-15455.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948749839304:android:c68dc4e2c76793264beefd",
+        "android_client_info": {
+          "package_name": "com.example.ar_furniture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWurbRJ5D-u6hAzs7kWIXHUaEhNm50oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948749839304:android:87d3205e4776a8434beefd",
+        "android_client_info": {
+          "package_name": "com.example.root_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWurbRJ5D-u6hAzs7kWIXHUaEhNm50oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
